@@ -1,3 +1,4 @@
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGSLpz4BDACkUw97PFCKtam0zkXcZSNoBGkVQZJ5Ez0wHholRSentJaf3Dw2
@@ -39,5 +40,6 @@ MCUN6sg2WPLTvTZtLA+4kq4f6canqX09w/lA1PxAy+xB4joeuvSkzLKhWzt6Peit
 6zFp2WAkO3hxOFmg4ZeRDFY=
 =SRAp
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
 I use this key to sign messages on my social media pages (although I rarely post). Feel free to use it for encryption if you message or email me :3
