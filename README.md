@@ -42,6 +42,4 @@ MCUN6sg2WPLTvTZtLA+4kq4f6canqX09w/lA1PxAy+xB4joeuvSkzLKhWzt6Peit
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-I use this key to sign messages on my social media pages (although I rarely post). Feel free to use it for encryption if you message or email me :3
-
 Alternatively, you can download the key on [keys.openpgp.org](https://keys.openpgp.org/search?q=miampf@proton.me)
