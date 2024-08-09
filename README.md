@@ -1,6 +1,6 @@
-```text
-*I'M MOVING NEW FREETIME PROJECTS OF MINE TO MY [CODEBERG](https://codeberg.org/motte).* Old projects will (probably) still be available here.
+**I'M MOVING NEW FREETIME PROJECTS OF MINE TO MY [CODEBERG](https://codeberg.org/motte).** Old projects will (probably) still be available here.
 
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGSLpz4BDACkUw97PFCKtam0zkXcZSNoBGkVQZJ5Ez0wHholRSentJaf3Dw2
