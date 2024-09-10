@@ -1,47 +1,15 @@
 **I'M MOVING NEW FREETIME PROJECTS OF MINE TO MY [CODEBERG](https://codeberg.org/motte).** Old projects will (probably) still be available here.
 
-```text
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-6zFp2WAkO3hxOFmg4ZeRDFY=
-=SRAp
------END PGP PUBLIC KEY BLOCK-----
-```
-
-Alternatively, you can download the key on [keys.openpgp.org](https://keys.openpgp.org/search?q=miampf@proton.me)
+<div id="heading" align="center">
+    <img src="https://web.archive.org/web/20091019050516/http://www.geocities.com/angelinaheaven69/prideflag.gif">
+    <h3>Hello there!</h3>
+    <div id="badges">
+        <img src="https://img.shields.io/badge/pronouns-they/it/she/he-yellow?style=for-the-badge">
+        <a href="https://github.com/miampf">
+            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
+        </a>
+        <a href="https://codeberg.org/motte">
+            <img src="https://img.shields.io/badge/Codeberg-blue?style=for-the-badge">
+        </a>
+    </div>
+</div>
