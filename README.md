@@ -1,5 +1,3 @@
-**I'M MOVING NEW FREETIME PROJECTS OF MINE TO MY [CODEBERG](https://codeberg.org/motte).** Old projects will (probably) still be available here.
-
 <div id="heading" align="center">
     <img src="https://web.archive.org/web/20091019050516/http://www.geocities.com/angelinaheaven69/prideflag.gif">
     <h3>Hello there!</h3>
